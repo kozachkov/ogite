@@ -1,0 +1,9 @@
+title: Использование гита
+author_url: 
+description: >- # this means to ignore newlines until "baseurl:"
+baseurl: "/ogite"
+url: ""
+
+theme: minima
+plugins:
+  - jekyll-feed
